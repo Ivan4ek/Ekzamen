@@ -61,3 +61,4 @@ C:\Users\Sterben\Desktop\121311312\WindowsFormsApp12\obj\Debug\123.csproj.CoreCo
 C:\Users\Sterben\Desktop\121311312\WindowsFormsApp12\obj\Debug\123.csproj.CopyComplete
 C:\Users\Sterben\Desktop\121311312\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
 C:\Users\Sterben\Desktop\121311312\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+C:\Users\Sterben\Desktop\121311312\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form2.resources
